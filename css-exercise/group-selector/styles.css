@@ -1,0 +1,19 @@
+.bone,
+.btwo,
+.bthree {
+    font-size: 28px;
+    font-family: Helvetical, Times New Roman, sans-serif;
+}
+
+.bone {
+    background-color: #000000;
+    color: #ffffff;
+
+}
+
+.btwo {
+    background-color: #FFFF00;
+}
+.bthree {
+    background-color: #00ffff;
+}
